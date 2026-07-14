@@ -30,6 +30,6 @@ This project showcases the use of SQL for exploratory data analysis by answering
 
 ## Author - Sahil Gupta
 
-This project highlights my proficiency in SQL by applying data analysis techniques to solve business-oriented problems using the Netflix dataset.
+This project demonstrates my SQL skills by applying data analysis techniques to solve business-oriented problems using the Netflix Movies and TV Shows dataset.
   
 
