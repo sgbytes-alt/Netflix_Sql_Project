@@ -11,3 +11,9 @@ This project analyzes the Netflix Movies and TV Shows dataset using SQL to answe
 - Explore trends based on release year, country, and duration.
 - Categorize content using genres, descriptions, and other relevant attributes.
 
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
