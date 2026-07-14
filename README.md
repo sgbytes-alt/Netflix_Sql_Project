@@ -23,5 +23,11 @@ The data for this project is sourced from the Kaggle dataset:
 - Rating Analysis: The most common content ratings reveal the primary audience targeted by Netflix across different content types.
 - Geographical Insights: The analysis highlights the countries contributing the most content and examines yearly content release trends for India.
 - Content Classification: Keyword-based categorization of descriptions provides insights into the nature and themes of content available on the platform.
+
+This project showcases the use of SQL for exploratory data analysis by answering business-oriented questions and extracting actionable insights from the Netflix dataset.
+
+## Author - Sahil Gupta
+
+This project highlights my proficiency in SQL by applying data analysis techniques to solve business-oriented problems using the Netflix dataset.
   
 
