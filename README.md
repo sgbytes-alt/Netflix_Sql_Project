@@ -38,6 +38,8 @@ return top 5 year with highest avg content release!
 the description field. Label content containing these keywords as 'Bad' and all other 
 content as 'Good'. Count how many items fall into each category.
 
+The complete SQL solutions are available in `netflix_solutions.sql`.
+
 ## Key Findings 
 
 - Content Distribution: Netflix offers a diverse catalog of Movies and TV Shows spanning multiple genres, ratings, and release years.
